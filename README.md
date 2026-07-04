@@ -1,81 +1,158 @@
 <div align="center">
 
-# Hey, I'm Faizan Ali Taj 👋
+<img src="https://img.shields.io/badge/github.dev-FF9900?style=for-the-badge&logo=amazon&logoColor=black" alt="amazon-style banner"/>
 
-**Full-stack developer building analytics tools for Amazon sellers**
+<h2>Faizan Ali Taj — Full-Stack Developer for Amazon Sellers | Python, React & Flask | Turns 250k-Row Reports into Decisions | Self-Hosted Edition (1-Pack)</h2>
 
-I take messy e-commerce data — PPC exports, business reports, 250k-row spreadsheets —
-and turn it into dashboards, insights, and decisions.
+⭐⭐⭐⭐⭐ 4.9 &nbsp;·&nbsp; <ins>1,337 ratings</ins> &nbsp;·&nbsp; 🏆 <b>#1 Best Seller</b> <sub>in "Developers Who Know What ACOS Means"</sub>
+
+<b>5K+ bought in past month</b> &nbsp;·&nbsp; ✅ <b>In Stock</b> &nbsp;·&nbsp; 📦 Ships from Pakistan 🇵🇰 · Delivers worldwide 🌍
+
+<ins><b>Price: Let's talk</b></ins> &nbsp; <sub>FREE returns · No subscription required</sub>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-scalevisors.com-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://scalevisors.com)
-[![STR Analyzer](https://img.shields.io/badge/Live_Product-STR_Analyzer-10B981?style=flat-square&logo=amazon&logoColor=white)](https://tools.scalevisors.com)
-[![Email](https://img.shields.io/badge/Email-the.bintaj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:The.bintaj@gmail.com)
+[![Add to Cart](https://img.shields.io/badge/🛒_Add_to_Cart-FFD814?style=for-the-badge&logoColor=black)](mailto:The.bintaj@gmail.com)
+[![Buy Now](https://img.shields.io/badge/⚡_Buy_Now-FFA41C?style=for-the-badge&logoColor=black)](https://scalevisors.com)
+[![Live Demo](https://img.shields.io/badge/👀_Try_Before_You_Buy-232F3E?style=for-the-badge&logoColor=white)](https://tools.scalevisors.com)
+
+✂️ <i>Clip coupon: <b>100% off</b> your first conversation</i>
 
 </div>
 
-<br/>
+---
 
-## 🧭 About
+## About this item
 
-- 🔭 **Currently building** [STR Analyzer](https://tools.scalevisors.com) — a multi-tool analytics platform for Amazon sellers with PPC tracking, n-gram search term analysis, brand analytics, and AI-powered insights
-- 🛒 **Amazon specialist** — PPC campaign management, business report analysis, Helium 10 market research, launch estimation & financial modeling
-- 🐳 **Self-hosting enthusiast** — I run my entire production stack (15+ Docker containers) on a single VPS, hardened with Cloudflare Tunnels, fail2ban, and automated backups
-- 🤖 **AI in production** — building Claude-powered chat interfaces that let sellers talk to their own sales data
-- 📍 Based in **Pakistan** 🇵🇰
+- **TURNS DATA INTO DECISIONS** — Builds analytics platforms that chew through 250,000-row Amazon Business Reports and produce wasted-spend alerts, n-gram keyword insights, and prioritized recommendations. No more squinting at Excel.
+- **FULL-STACK, FULLY ASSEMBLED** — React & Astro frontends, Flask/Python APIs, PostgreSQL + Redis data layer, all wired together with REST architecture and Tailwind styling. Some assembly of *your requirements* required.
+- **SELF-HOSTING INCLUDED IN THE BOX** — Runs 15+ production Docker containers on a single VPS, hardened with Cloudflare Tunnels, fail2ban, and automated backups. Has survived bot armies, surprise reboots, and one accidental self-IP ban.
+- **AI-POWERED, SELLER-APPROVED** — Ships Claude-powered chat interfaces so sellers can literally talk to their sales data. "Why did April tank?" is now a valid query.
+- **NO API? NO PROBLEM** — Writes Tampermonkey userscripts that inject custom dashboards straight into Amazon & eBay ad consoles when the official APIs say no.
 
-<br/>
+---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|:--------|:-------------|:-----------|
-| **[STR Analyzer](https://tools.scalevisors.com)** ⭐ | Flagship platform for Amazon sellers — search term n-gram analysis, wasted-spend detection, and prioritized optimization recommendations | `Astro` `React` `Flask` `PostgreSQL` `Docker` |
-| **PPC Tracker** | Real-time Amazon advertising performance monitoring with ASIN-level tables across multiple accounts | `Python` `Redis` `React` |
-| **BR Analyzer** | Crunches 250k+ row Business Report Excel files and lets you *chat* with your data through an AI interface | `Flask` `Claude API` `Chart.js` |
-| **Brand Analyzer** | Historical brand performance tracking with market trend correlation and competitor benchmarking | `React` `PostgreSQL` `REST APIs` |
-| **Dashboard Userscripts** | Tampermonkey scripts that inject custom analytics dashboards directly into Amazon & eBay ad consoles | `JavaScript` `Browser APIs` |
-
-<br/>
-
-## 🛠️ Stack
-
-|  |  |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-<br/>
-
-## 📊 GitHub Stats
+## Frequently bought together
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanalitaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalitaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" height="165" alt="Top languages"/>
+🐍 **Python** &nbsp;➕&nbsp; ⚛️ **React** &nbsp;➕&nbsp; 🐘 **PostgreSQL** &nbsp;➕&nbsp; 🐳 **Docker**
+
+**Total: one production-grade analytics platform** &nbsp; ☑️ *All four items added to cart*
+
+</div>
+
+---
+
+## What's in the box
+
+```yaml
+# docker-compose.faizan.yml — actual production layout, lightly dramatized
+services:
+  str-analyzer:      # ⭐ Flagship: Amazon seller analytics platform
+    stack: [astro, react, flask, postgres]
+    url: https://tools.scalevisors.com
+  ppc-tracker:       # Real-time ad performance, ASIN-level tables
+    stack: [python, redis, react]
+  br-analyzer:       # 250k-row Business Reports + AI chat interface
+    stack: [flask, claude-api, chartjs]
+  brand-analyzer:    # Historical brand performance vs. market trends
+    stack: [react, postgres]
+  mattermost:        # Self-hosted team chat (with a custom-built plugin)
+  nextcloud:         # Self-hosted file cloud
+  nginx:             # The bouncer
+restart: always      # Obviously
+```
+
+---
+
+## Product information
+
+| | |
+|:--|:--|
+| **ASIN** | `B0-FA1Z4N-DEV` |
+| **Item model number** | Full-Stack Developer, 2026 edition |
+| **Languages** | Python, TypeScript, JavaScript, SQL, Bash |
+| **Frontend** | React, Astro, Tailwind CSS, Electron |
+| **Backend** | Flask, Node.js, Pandas |
+| **Data layer** | PostgreSQL, Redis, MySQL, SQLite |
+| **Infrastructure** | Docker, Nginx, Cloudflare, Linux |
+| **Domain expertise** | Amazon PPC · ACOS / ROAS / TACOS · Helium 10 · launch modeling |
+| **Batteries required?** | No — runs on chai ☕ |
+| **Country of origin** | Pakistan 🇵🇰 |
+| **Best Sellers Rank** | #1 in Amazon Seller Tools · #4 in Single-VPS Overachievers |
+
+---
+
+## Customer reviews
+
+<div align="center">
+
+### ⭐⭐⭐⭐⭐ 4.9 out of 5
+
+</div>
+
+> ⭐⭐⭐⭐⭐ **"Found six months of wasted ad spend in one afternoon"**
+> *Verified Seller* — The n-gram analysis flagged keywords I'd been paying for since 2023. Painful. Necessary. Five stars.
+
+> ⭐⭐⭐⭐⭐ **"Runs a SaaS, team chat, AND a file cloud on ONE VPS"**
+> *DevOps Reviewer* — I've seen Kubernetes clusters do less with more. Witchcraft. Would provision again.
+
+> ⭐⭐⭐⭐ **"Made my spreadsheet too powerful"**
+> *Anonymous Client* — Four stars only because now I know what TACOS means and I can't unknow it.
+
+<details>
+<summary><b>See more reviews ▾</b></summary>
+<br/>
+
+> ⭐⭐⭐⭐⭐ **"Asked my sales data a question. It answered."**
+> *Beta Tester* — Uploaded a 250k-row report, typed "what's dragging my conversion rate," and got an actual answer. We live in the future.
+
+> ⭐⭐⭐⭐⭐ **"The Amazon console dashboard I always wanted"**
+> *PPC Manager* — His userscript put the metrics Amazon hides right where I needed them. Feels illegal. It isn't.
+
+</details>
+
+---
+
+## Questions & Answers
+
+**Q: Does this developer scale?**
+A: Yes — currently architected for ~7.5M rows/year of multi-account PPC data. Vertically *and* horizontally.
+
+**Q: Is it compatible with my messy data?**
+A: The messier the better. Malformed CSVs, numbers auto-formatted into dates, mystery columns — all supported.
+
+**Q: What happens if production goes down at 2 AM?**
+A: `restart: always`, automated backups, and a human who has genuinely rebuilt Nginx configs over a 300ms SSH connection from another continent.
+
+---
+
+## Performance data <sub>(measured by GitHub)</sub>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=faizanalitaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalitaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9" height="165" alt="Top languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Customers also contacted
+
+[![Email](https://img.shields.io/badge/📧_The.bintaj%40gmail.com-232F3E?style=for-the-badge)](mailto:The.bintaj@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_scalevisors.com-FF9900?style=for-the-badge)](https://scalevisors.com)
+[![Tools Hub](https://img.shields.io/badge/🧰_tools.scalevisors.com-146EB4?style=for-the-badge)](https://tools.scalevisors.com)
+
+<br/>
+
+<sub>⚠️ This developer is not affiliated with Amazon.com, Inc. He just knows the Seller Central console better than his own kitchen.</sub>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=faizanalitaj&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-I'm always up for talking about Amazon analytics, self-hosted infrastructure, or building data tools that people actually use.
-
-📬 **[The.bintaj@gmail.com](mailto:The.bintaj@gmail.com)** · 🌐 **[scalevisors.com](https://scalevisors.com)** · 🧰 **[tools.scalevisors.com](https://tools.scalevisors.com)**
-
-<br/>
-
-<div align="center">
-
-*Building tools that turn data into decisions.*
+<i>Building tools that turn data into decisions — <b>add to cart before it's gone.</b></i>
 
 </div>
